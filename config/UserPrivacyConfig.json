@@ -1,0 +1,12 @@
+{
+    "user": "analyst_1",
+    "column_budgets": {
+      "salary": 0.2,
+      "age": 0.1
+    },
+    "table_budgets": {
+      "employees": 1.0
+    },
+    "query_budget": 1.5
+  }
+  
