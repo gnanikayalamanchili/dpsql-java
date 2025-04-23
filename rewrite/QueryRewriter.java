@@ -1,3 +1,8 @@
+
+import java.util.Map;
+import java.util.List;
+import java.util.ArrayList;
+
 public class QueryRewriter {
     public static String rewrite(String column, String label, Double budget) {
         if ("PRIVATE".equalsIgnoreCase(label)) {
